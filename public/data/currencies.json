@@ -1,0 +1,104 @@
+{
+    "currencies": [
+        {
+            "name": "USD/TRY",
+            "buy": "32.5158",
+            "sell": "32.5258",
+            "high": "32.5855",
+            "low": "32.5206",
+            "change": "+0.0355",
+            "change_percent": "+0.11%",
+            "date": "00:18:48"
+        },
+        {
+            "name": "EUR/TRY",
+            "buy": "34.8528",
+            "sell": "35.0059",
+            "high": "34.9675",
+            "low": "34.9213",
+            "change": "-0.0028",
+            "change_percent": "-0.01%",
+            "date": "00:21:37"
+        },
+        {
+            "name": "EUR/USD",
+            "buy": "1.0739",
+            "sell": "1.0743",
+            "high": "1.0743",
+            "low": "1.0737",
+            "change": "+0.0003",
+            "change_percent": "+0.03%",
+            "date": "00:37:55"
+        },
+        {
+            "name": "USD/JPY",
+            "buy": "157.84",
+            "sell": "157.85",
+            "high": "157.88",
+            "low": "157.82",
+            "change": "0.00",
+            "change_percent": "0.00%",
+            "date": "00:37:18"
+        },
+        {
+            "name": "GBP/USD",
+            "buy": "1.2709",
+            "sell": "1.2711",
+            "high": "1.2711",
+            "low": "1.2698",
+            "change": "+0.0003",
+            "change_percent": "+0.02%",
+            "date": "00:22:37"
+        },
+        {
+            "name": "USD/CHF",
+            "buy": "0.8840",
+            "sell": "0.8841",
+            "high": "0.8850",
+            "low": "0.8838",
+            "change": "-0.0001",
+            "change_percent": "-0.01%",
+            "date": "00:22:03"
+        },
+        {
+            "name": "USD/CAD",
+            "buy": "1.3717",
+            "sell": "1.3718",
+            "high": "1.3718",
+            "low": "1.3715",
+            "change": "0.00",
+            "change_percent": "0.00%",
+            "date": "00:21:48"
+        },
+        {
+            "name": "EUR/JPY",
+            "buy": "169.47",
+            "sell": "169.55",
+            "high": "169.55",
+            "low": "169.47",
+            "change": "-0.05",
+            "change_percent": "-0.03%",
+            "date": "00:22:03"
+        },
+        {
+            "name": "AUD/USD",
+            "buy": "0.6656",
+            "sell": "0.6657",
+            "high": "0.6657",
+            "low": "0.6654",
+            "change": "+0.0001",
+            "change_percent": "+0.01%",
+            "date": "00:21:58"
+        },
+        {
+            "name": "NZD/USD",
+            "buy": "0.6144",
+            "sell": "0.6145",
+            "high": "0.6145",
+            "low": "0.6144",
+            "change": "0.00",
+            "change_percent": "0.00%",
+            "date": "00:22:03"
+        }
+    ]
+}

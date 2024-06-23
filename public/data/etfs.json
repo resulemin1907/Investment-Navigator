@@ -1,0 +1,94 @@
+{
+    "etfs": [
+        {
+            "name": "ISE İstanbul 30",
+            "last": "49.62",
+            "high": "49.67",
+            "low": "48.35",
+            "change": "0.00",
+            "change_percent": "0.00%",
+            "date": "16/01"
+        },
+        {
+            "name": "Dow Jones İstanbul 20",
+            "last": "364.10",
+            "high": "366.30",
+            "low": "361.60",
+            "change": "0.00",
+            "change_percent": "0.00%",
+            "date": "18/04"
+        },
+        {
+            "name": "Türk Yüksek Piyasa Değ. Bank.",
+            "last": "13.02",
+            "high": "13.30",
+            "low": "12.25",
+            "change": "0.00",
+            "change_percent": "0.00%",
+            "date": "01/01"
+        },
+        {
+            "name": "Garanti Bank EKO10 Index",
+            "last": "14.54",
+            "high": "14.54",
+            "low": "14.44",
+            "change": "0.00",
+            "change_percent": "0.00%",
+            "date": "01/01"
+        },
+        {
+            "name": "İş Yatırım ISE 30",
+            "last": "35.95",
+            "high": "35.95",
+            "low": "35.28",
+            "change": "0.00",
+            "change_percent": "0.00%",
+            "date": "04/02"
+        },
+        {
+            "name": "İstanbul Altın BYF",
+            "last": "209.35",
+            "high": "209.45",
+            "low": "205.25",
+            "change": "+4.55",
+            "change_percent": "+2.22%",
+            "date": "14/06"
+        },
+        {
+            "name": "Kuveyt Türk B Tipi Gümüş",
+            "last": "1.380",
+            "high": "1.390",
+            "low": "1.370",
+            "change": "0.00",
+            "change_percent": "0.00%",
+            "date": "31/03"
+        },
+        {
+            "name": "Kuveyt Türk B Tipi Altın",
+            "last": "246.00",
+            "high": "250.00",
+            "low": "246.00",
+            "change": "0.00",
+            "change_percent": "0.00%",
+            "date": "13/09"
+        },
+        {
+            "name": "ABD Hazine Bonosu Dolar B Tipi",
+            "last": "3.076,00",
+            "high": "3.038,00",
+            "low": "3.076,00",
+            "change": "+47.00",
+            "change_percent": "+1.55%",
+            "date": "14/06"
+        },
+        {
+            "name": "Finansbank FTSE İstanbul",
+            "last": "270.90",
+            "high": "272.00",
+            "low": "269.00",
+            "change": "0.00",
+            "change_percent": "0.00%",
+            "date": "16/01"
+        }
+    ]
+}

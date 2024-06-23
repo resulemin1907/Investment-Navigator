@@ -1,0 +1,94 @@
+{
+    "bonds": [
+        {
+            "name": "ABD 10 Yıllık",
+            "yield": "4.272",
+            "low": "4.263",
+            "high": "4.286",
+            "change": "-0.007",
+            "change_percent": "-0.16%",
+            "date": "18/06"
+        },
+        {
+            "name": "ABD 30 Yıl. Hzn. Bonosu",
+            "yield": "119.72",
+            "low": "119.22",
+            "high": "119.81",
+            "change": "+0.16",
+            "change_percent": "+0.13%",
+            "date": "18/06"
+        },
+        {
+            "name": "ABD 10 Yıl. Bono",
+            "yield": "110.42",
+            "low": "110.28",
+            "high": "110.50",
+            "change": "+0.02",
+            "change_percent": "+0.01%",
+            "date": "18/06"
+        },
+        {
+            "name": "ABD 5 Yıl. Hzn. Bonosu",
+            "yield": "106.78",
+            "low": "106.70",
+            "high": "106.79",
+            "change": "+0.05",
+            "change_percent": "+0.04%",
+            "date": "18/06"
+        },
+        {
+            "name": "ABD 2 Yıl. Hzn. Bonosu",
+            "yield": "102.16",
+            "low": "102.12",
+            "high": "102.12",
+            "change": "+0.01",
+            "change_percent": "+0.01%",
+            "date": "18/06"
+        },
+        {
+            "name": "Euro Bund",
+            "yield": "132.61",
+            "low": "132.43",
+            "high": "132.49",
+            "change": "+0.12",
+            "change_percent": "+0.09%",
+            "date": "18/06"
+        },
+        {
+            "name": "İngiltere Bonoları",
+            "yield": "98.37",
+            "low": "98.22",
+            "high": "98.43",
+            "change": "-0.50",
+            "change_percent": "-0.51%",
+            "date": "18/06"
+        },
+        {
+            "name": "Japonya Hük. Bonosu",
+            "yield": "143.98",
+            "low": "143.79",
+            "high": "144.06",
+            "change": "+0.04",
+            "change_percent": "+0.03%",
+            "date": "18/06"
+        },
+        {
+            "name": "İtalya Hük. Bon.",
+            "yield": "116.41",
+            "low": "116.31",
+            "high": "116.42",
+            "change": "+0.08",
+            "change_percent": "+0.07%",
+            "date": "18/06"
+        },
+        {
+            "name": "Euro SCHATZ",
+            "yield": "105.767",
+            "low": "105.778",
+            "high": "105.755",
+            "change": "+0.012",
+            "change_percent": "+0.01%",
+            "date": "18/06"
+        }
+    ]
+}

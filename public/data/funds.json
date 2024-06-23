@@ -1,0 +1,84 @@
+{
+    "funds": [
+        {
+            "name": "Yapı Kredi Invest A Koç Affiliate Cos Fd",
+            "symbol": "0P0000HOI0",
+            "last": "12.274",
+            "change": "+0.403",
+            "change_percent": "+3.39%",
+            "date": "13/06"
+        },
+        {
+            "name": "YKB B Money Market Fd",
+            "symbol": "0P0000HOGR",
+            "last": "0.382",
+            "change": "0.000",
+            "change_percent": "0.00%",
+            "date": "13/06"
+        },
+        {
+            "name": "HSBC Asset Management Equity Fund",
+            "symbol": "0P0000HOHW",
+            "last": "1.120",
+            "change": "+0.020",
+            "change_percent": "+1.38%",
+            "date": "13/06"
+        },
+        {
+            "name": "TEB B Gold Fd",
+            "symbol": "0P0000HODD",
+            "last": "0.567",
+            "change": "-0.004",
+            "change_percent": "-0.70%",
+            "date": "13/06"
+        },
+        {
+            "name": "Strateji Long Only Turkish Equity Fund",
+            "symbol": "0P0000W0XH",
+            "last": "166.781",
+            "change": "+5.580",
+            "change_percent": "+3.46%",
+            "date": "14/06"
+        },
+        {
+            "name": "HSBC Asset Management Sustainability Index",
+            "symbol": "0P00010R8C",
+            "last": "0.077",
+            "change": "+0.001",
+            "change_percent": "+1.76%",
+            "date": "13/06"
+        },
+        {
+            "name": "HSBC Asset Management BIST30 Index",
+            "symbol": "0P0000HOOA",
+            "last": "0.950",
+            "change": "+0.016",
+            "change_percent": "+1.75%",
+            "date": "13/06"
+        },
+        {
+            "name": "Is Bank A Affiliate Companies Fd",
+            "symbol": "0P0000HOL3",
+            "last": "311.921",
+            "change": "-5.818",
+            "change_percent": "-1.83%",
+            "date": "13/06"
+        },
+        {
+            "name": "YKB B World Funds FoF",
+            "symbol": "0P0000HOGU",
+            "last": "0.219",
+            "change": "0.000",
+            "change_percent": "0.00%",
+            "date": "13/06"
+        },
+        {
+            "name": "HSBC Asset Management Multi Asset Index",
+            "symbol": "0P00012TJM",
+            "last": "0.100",
+            "change": "+0.001",
+            "change_percent": "+1.00%",
+            "date": "13/06"
+        }
+    ]
+}

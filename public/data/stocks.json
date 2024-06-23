@@ -1,0 +1,104 @@
+{
+    "stocks": [
+        {
+            "name": "THY",
+            "last": "311.75",
+            "high": "315.00",
+            "low": "309.75",
+            "change": "+2.25",
+            "change_percent": "+0.73%",
+            "volume": "29.42M",
+            "date": "14/06"
+        },
+        {
+            "name": "Tüpraş",
+            "last": "167.00",
+            "high": "169.00",
+            "low": "166.10",
+            "change": "+0.90",
+            "change_percent": "+0.54%",
+            "volume": "22.65M",
+            "date": "14/06"
+        },
+        {
+            "name": "Mia Teknoloji",
+            "last": "56.50",
+            "high": "56.70",
+            "low": "54.90",
+            "change": "+2.50",
+            "change_percent": "+4.63%",
+            "volume": "19.02M",
+            "date": "14/06"
+        },
+        {
+            "name": "Fenerbahçe",
+            "last": "152.00",
+            "high": "152.00",
+            "low": "138.50",
+            "change": "+13.80",
+            "change_percent": "+9.99%",
+            "volume": "5.5M",
+            "date": "14/06"
+        },
+        {
+            "name": "Erdemir",
+            "last": "51.60",
+            "high": "52.00",
+            "low": "49.80",
+            "change": "+2.18",
+            "change_percent": "+4.41%",
+            "volume": "185.11M",
+            "date": "14/06"
+        },
+        {
+            "name": "BIM Mağazalar",
+            "last": "553.60",
+            "high": "553.80",
+            "low": "526.50",
+            "change": "+27.00",
+            "change_percent": "+5.13%",
+            "volume": "4.32M",
+            "date": "14/06"
+        },
+        {
+            "name": "Altınay Savunma Teknolojileri AS",
+            "last": "84.30",
+            "high": "87.90",
+            "low": "82.00",
+            "change": "-2.70",
+            "change_percent": "-3.10%",
+            "volume": "4.32M",
+            "date": "14/06"
+        },
+        {
+            "name": "Pegasus Hava Taşımacılığı",
+            "last": "230.30",
+            "high": "237.90",
+            "low": "230.00",
+            "change": "+1.50",
+            "change_percent": "+0.66%",
+            "volume": "15.43M",
+            "date": "14/06"
+        },
+        {
+            "name": "Reeder Teknoloji",
+            "last": "39.06",
+            "high": "41.00",
+            "low": "38.01",
+            "change": "+1.20",
+            "change_percent": "+3.17%",
+            "volume": "33.34M",
+            "date": "14/06"
+        },
+        {
+            "name": "Agrotech Teknoloji",
+            "last": "18.10",
+            "high": "18.90",
+            "low": "17.80",
+            "change": "+1.18",
+            "change_percent": "+7.17%",
+            "volume": "72.4M",
+            "date": "14/06"
+        }
+    ]
+}

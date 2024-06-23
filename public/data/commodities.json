@@ -1,0 +1,104 @@
+{
+    "commodities": [
+        {
+            "name": "Altın",
+            "contract": "Ağu 2024",
+            "last": "2,344.20",
+            "high": "2,348.00",
+            "low": "2,321.05",
+            "change": "+15.20",
+            "change_percent": "+0.65%",
+            "date": "18/06"
+        },
+        {
+            "name": "Gümüş",
+            "contract": "Tem 2024",
+            "last": "29,610",
+            "high": "29,753",
+            "low": "28,985",
+            "change": "+0.219",
+            "change_percent": "+0.75%",
+            "date": "18/06"
+        },
+        {
+            "name": "Ham Petrol",
+            "contract": "Ağu 2024",
+            "last": "80.78",
+            "high": "80.85",
+            "low": "79.17",
+            "change": "+1.06",
+            "change_percent": "+1.33%",
+            "date": "18/06"
+        },
+        {
+            "name": "Bakır",
+            "contract": "Tem 2024",
+            "last": "4.4920",
+            "high": "4.4990",
+            "low": "4.3750",
+            "change": "+0.0445",
+            "change_percent": "+1.00%",
+            "date": "18/06"
+        },
+        {
+            "name": "Brent Petrol",
+            "contract": "Tem 2024",
+            "last": "85.42",
+            "high": "85.47",
+            "low": "83.50",
+            "change": "+0.03",
+            "change_percent": "+0.04%",
+            "date": "18/06"
+        },
+        {
+            "name": "Doğal Gaz",
+            "contract": "Tem 2024",
+            "last": "2.903",
+            "high": "2.916",
+            "low": "2.772",
+            "change": "+0.115",
+            "change_percent": "+4.12%",
+            "date": "18/06"
+        },
+        {
+            "name": "Kalorifer Yakıtı",
+            "contract": "Tem 2024",
+            "last": "2.5288",
+            "high": "2.5288",
+            "low": "2.4675",
+            "change": "+0.0463",
+            "change_percent": "+1.87%",
+            "date": "18/06"
+        },
+        {
+            "name": "Amerikan Soya Fasulyesi",
+            "contract": "Tem 2024",
+            "last": "1,172.75",
+            "high": "1,175.26",
+            "low": "1,167.25",
+            "change": "+14.75",
+            "change_percent": "+1.27%",
+            "date": "18/06"
+        },
+        {
+            "name": "Amerikan Buğday",
+            "contract": "Tem 2024",
+            "last": "580.50",
+            "high": "595.00",
+            "low": "580.50",
+            "change": "-9.50",
+            "change_percent": "-1.61%",
+            "date": "18/06"
+        },
+        {
+            "name": "Benzin RBOB",
+            "contract": "Tem 2024",
+            "last": "2.4941",
+            "high": "2.4941",
+            "low": "2.4300",
+            "change": "+0.0472",
+            "change_percent": "+1.93%",
+            "date": "18/06"
+        }
+    ]
+}

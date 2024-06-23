@@ -1,0 +1,38 @@
+{
+    "daily": {
+        "BIST100": { "value": 100764, "change": 0.76 },
+        "EURO": { "value": 100430, "change": 0.43 },
+        "ALTIN": { "value": 102715, "change": 2.71 },
+        "DOLAR": { "value": 101444, "change": 1.44 }
+    },
+    "weekly": {
+        "BIST100": { "value": 103277, "change": 3.28 },
+        "EURO": { "value": 100243, "change": 0.24 },
+        "ALTIN": { "value": 103025, "change": 3.03 },
+        "DOLAR": { "value": 101322, "change": 1.32 }
+    },
+    "monthly": {
+        "BIST100": { "value": 103078, "change": 3.08 },
+        "EURO": { "value": 100193, "change": 0.19 },
+        "ALTIN": { "value": 99603, "change": -0.4 },
+        "DOLAR": { "value": 101910, "change": 1.91 }
+    },
+    "ytd": {
+        "BIST100": { "value": 140175, "change": 40.17 },
+        "EURO": { "value": 107127, "change": 7.13 },
+        "ALTIN": { "value": 125270, "change": 25.27 },
+        "DOLAR": { "value": 111226, "change": 11.23 }
+    },
+    "yearly": {
+        "BIST100": { "value": 190544, "change": 90.54 },
+        "EURO": { "value": 135436, "change": 35.44 },
+        "ALTIN": { "value": 164949, "change": 64.95 },
+        "DOLAR": { "value": 138556, "change": 38.56 }
+    },
+    "twoYears": {
+        "BIST100": { "value": 413704, "change": 313.7 },
+        "EURO": { "value": 194772, "change": 94.77 },
+        "ALTIN": { "value": 241815, "change": 141.81 },
+        "DOLAR": { "value": 190124, "change": 90.12 }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "data": {
+        "yukselenler": [
+            {
+                "hisse": "BIMAS",
+                "son": 526.0,
+                "degisim": 7.68,
+                "hacim": 3235.12
+            },
+            {
+                "hisse": "MGROS",
+                "son": 523.5,
+                "degisim": 7.27,
+                "hacim": 2072.45
+            },
+            { "hisse": "SAYAS", "son": 65.4, "degisim": 7.21, "hacim": 46.68 },
+            {
+                "hisse": "OTKAR",
+                "son": 622.0,
+                "degisim": 6.32,
+                "hacim": 252.33
+            },
+            { "hisse": "KOZAA", "son": 55.3, "degisim": 6.24, "hacim": 731.28 },
+            { "hisse": "TKFEN", "son": 53.25, "degisim": 5.76, "hacim": 289.5 },
+            { "hisse": "ENKAI", "son": 42.1, "degisim": 5.14, "hacim": 990.3 },
+            { "hisse": "AGROT", "son": 16.45, "degisim": 5.11, "hacim": 1047.9 }
+        ],
+        "dusunenler": [
+            {
+                "hisse": "BTCIM",
+                "son": 145.7,
+                "degisim": -2.87,
+                "hacim": 305.98
+            },
+            {
+                "hisse": "KONTR",
+                "son": 175.5,
+                "degisim": -2.5,
+                "hacim": 1052.72
+            },
+            {
+                "hisse": "EUPWR",
+                "son": 105.4,
+                "degisim": -2.32,
+                "hacim": 253.84
+            },
+            {
+                "hisse": "AKBNK",
+                "son": 61.5,
+                "degisim": -1.13,
+                "hacim": 4579.04
+            },
+            {
+                "hisse": "GESAN",
+                "son": 53.05,
+                "degisim": -1.12,
+                "hacim": 192.13
+            },
+            {
+                "hisse": "TCELL",
+                "son": 97.1,
+                "degisim": -0.87,
+                "hacim": 2126.55
+            },
+            {
+                "hisse": "FROTO",
+                "son": 1057.0,
+                "degisim": -0.75,
+                "hacim": 1074.84
+            },
+            {
+                "hisse": "TABGD",
+                "son": 187.2,
+                "degisim": -0.48,
+                "hacim": 294.44
+            }
+        ],
+        "hacimliler": [
+            {
+                "hisse": "THYAO",
+                "son": 309.5,
+                "degisim": 1.48,
+                "hacim": 7471.11
+            },
+            {
+                "hisse": "EREGL",
+                "son": 49.42,
+                "degisim": 3.39,
+                "hacim": 5959.34
+            },
+            {
+                "hisse": "AKBNK",
+                "son": 61.5,
+                "degisim": -1.13,
+                "hacim": 4579.04
+            },
+            {
+                "hisse": "TUPRS",
+                "son": 166.1,
+                "degisim": 1.28,
+                "hacim": 4063.05
+            },
+            {
+                "hisse": "KCHOL",
+                "son": 221.9,
+                "degisim": 2.35,
+                "hacim": 3860.51
+            },
+            {
+                "hisse": "ISCTR",
+                "son": 16.31,
+                "degisim": 1.68,
+                "hacim": 3653.32
+            },
+            {
+                "hisse": "BIMAS",
+                "son": 526.0,
+                "degisim": 7.68,
+                "hacim": 3235.12
+            },
+            {
+                "hisse": "YKBNK",
+                "son": 32.96,
+                "degisim": 0.24,
+                "hacim": 3147.62
+            }
+        ]
+    }
+}

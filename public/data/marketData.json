@@ -1,0 +1,346 @@
+{
+    "marketData": {
+        "turkEndeksleri": [
+            {
+                "name": "BIST 100",
+                "son": 10471.32,
+                "fark": 79.44,
+                "fark_percent": 0.76
+            },
+            {
+                "name": "BIST 50",
+                "son": 9256.24,
+                "fark": 71.05,
+                "fark_percent": 0.77
+            },
+            {
+                "name": "BIST 30",
+                "son": 11412.51,
+                "fark": 93.43,
+                "fark_percent": 0.83
+            },
+            {
+                "name": "BIST Banka",
+                "son": 14738.02,
+                "fark": -55.87,
+                "fark_percent": -0.38
+            },
+            {
+                "name": "BIST Mali",
+                "son": 11745.79,
+                "fark": -28.99,
+                "fark_percent": -0.25
+            },
+            {
+                "name": "BIST Gayrimenkul Y.O.",
+                "son": 2877.01,
+                "fark": 25.94,
+                "fark_percent": 0.91
+            }
+        ],
+        "dunyaEndeksleri": [
+            {
+                "name": "Dow Jones",
+                "son": 38834.86,
+                "fark": 56.76,
+                "fark_percent": 0.15
+            },
+            {
+                "name": "S&P 500",
+                "son": 5487.03,
+                "fark": 13.8,
+                "fark_percent": 0.25
+            },
+            {
+                "name": "DAX",
+                "son": 18123.58,
+                "fark": 55.37,
+                "fark_percent": 0.31
+            },
+            {
+                "name": "Hang Seng",
+                "son": 17915.55,
+                "fark": -20.57,
+                "fark_percent": -0.11
+            },
+            {
+                "name": "S&P/ASX 200",
+                "son": 7776.0,
+                "fark": -2.1,
+                "fark_percent": -0.03
+            },
+            {
+                "name": "Shanghai",
+                "son": 3030.25,
+                "fark": 14.36,
+                "fark_percent": 0.48
+            }
+        ],
+        "vadeliEndeksler": [
+            {
+                "name": "DAX 30",
+                "son": 18123.58,
+                "fark": -0.09,
+                "fark_percent": -0.09
+            },
+            {
+                "name": "Euro Stoxx 50",
+                "son": 4958.0,
+                "fark": -0.08,
+                "fark_percent": -0.08
+            },
+            {
+                "name": "FTSE 100",
+                "son": 8241.7,
+                "fark": 0.0,
+                "fark_percent": 0.0
+            },
+            {
+                "name": "S&P 500",
+                "son": 5562.25,
+                "fark": 0.04,
+                "fark_percent": 0.04
+            },
+            {
+                "name": "S&P 500 VIX",
+                "son": 1433.0,
+                "fark": -6.16,
+                "fark_percent": -6.16
+            },
+            {
+                "name": "Nasdaq 100",
+                "son": 20215.0,
+                "fark": 0.09,
+                "fark_percent": 0.09
+            }
+        ],
+        "onemliHisseSenetleri": [
+            {
+                "name": "Exxon Mobil",
+                "son": 109.41,
+                "fark": 1.05,
+                "fark_percent": 0.96
+            },
+            {
+                "name": "Alibaba ADR",
+                "son": 74.46,
+                "fark": -0.09,
+                "fark_percent": -0.12
+            },
+            {
+                "name": "Deutsche Bank",
+                "son": 146.64,
+                "fark": 0.018,
+                "fark_percent": 0.12
+            },
+            {
+                "name": "Meta Platforms",
+                "son": 499.49,
+                "fark": -7.14,
+                "fark_percent": -1.41
+            },
+            {
+                "name": "Alphabet A",
+                "son": 175.09,
+                "fark": -2.15,
+                "fark_percent": -1.21
+            },
+            {
+                "name": "Apple",
+                "son": 214.29,
+                "fark": -2.38,
+                "fark_percent": -1.1
+            }
+        ],
+        "emtiyalar": [
+            {
+                "name": "Altın",
+                "son": 2342.8,
+                "fark": -0.17,
+                "fark_percent": -0.17
+            },
+            {
+                "name": "Ham Petrol",
+                "son": 80.85,
+                "fark": 0.17,
+                "fark_percent": 0.17
+            },
+            {
+                "name": "Gümüş",
+                "son": 2950.0,
+                "fark": -0.22,
+                "fark_percent": -0.22
+            },
+            {
+                "name": "Doğal Gaz",
+                "son": 2.918,
+                "fark": 0.48,
+                "fark_percent": 0.48
+            },
+            {
+                "name": "Amerikan Soya Fasulyesi",
+                "son": 1172.75,
+                "fark": 1.27,
+                "fark_percent": 1.27
+            },
+            {
+                "name": "Amerikan Buğday",
+                "son": 580.5,
+                "fark": -1.61,
+                "fark_percent": -1.61
+            }
+        ],
+        "etfler": [
+            {
+                "name": "SPDR S&P 500",
+                "son": 548.49,
+                "fark": 1.39,
+                "fark_percent": 0.25
+            },
+            {
+                "name": "Invesco QQQ Trust",
+                "son": 485.21,
+                "fark": 0.15,
+                "fark_percent": 0.03
+            },
+            {
+                "name": "ProShares Ultra VIX Short-Term Futures",
+                "son": 24.27,
+                "fark": -0.14,
+                "fark_percent": -0.57
+            },
+            {
+                "name": "SPDR Gold Shares",
+                "son": 215.47,
+                "fark": 0.86,
+                "fark_percent": 0.4
+            },
+            {
+                "name": "SPDR S&P Metals & Mining",
+                "son": 58.5,
+                "fark": 0.2,
+                "fark_percent": 0.34
+            },
+            {
+                "name": "iShares MSCI Emerging Markets",
+                "son": 42.89,
+                "fark": 0.39,
+                "fark_percent": 0.92
+            }
+        ],
+        "oranlarTahviller": [
+            {
+                "name": "İtalya Hük. Bon.",
+                "son": 116.81,
+                "fark": 0.34,
+                "fark_percent": 0.34
+            },
+            {
+                "name": "ABD 10 Yıl. Bono",
+                "son": 110.7,
+                "fark": -0.08,
+                "fark_percent": -0.08
+            },
+            {
+                "name": "ABD 30 Yıl. Hzn. Bonosu",
+                "son": 120.38,
+                "fark": -0.05,
+                "fark_percent": -0.05
+            },
+            {
+                "name": "İngiltere Bonoları",
+                "son": 98.84,
+                "fark": 0.52,
+                "fark_percent": 0.52
+            },
+            {
+                "name": "Euro Bund",
+                "son": 132.56,
+                "fark": -0.05,
+                "fark_percent": -0.05
+            },
+            {
+                "name": "Euro SCHATZ",
+                "son": 105.73,
+                "fark": -0.02,
+                "fark_percent": -0.02
+            }
+        ],
+        "ondeGelenTurkHisseSenetleri": [
+            {
+                "name": "Garanti BBVA",
+                "son": 104.9,
+                "fark": 1.9,
+                "fark_percent": 1.84
+            },
+            {
+                "name": "Türkiye Sigorta",
+                "son": 78.35,
+                "fark": -0.3,
+                "fark_percent": -0.38
+            },
+            {
+                "name": "THY",
+                "son": 311.75,
+                "fark": 2.25,
+                "fark_percent": 0.73
+            },
+            {
+                "name": "Şekerbank T.A.Ş.",
+                "son": 3.72,
+                "fark": 0.01,
+                "fark_percent": 0.27
+            },
+            {
+                "name": "Akbank T.A.Ş",
+                "son": 61.1,
+                "fark": -0.4,
+                "fark_percent": -0.65
+            },
+            {
+                "name": "Ege Endüstri Ve Tic. A.Ş.",
+                "son": 1205.57,
+                "fark": -29.0,
+                "fark_percent": -2.29
+            }
+        ],
+        "enIyiKriptoParalar": [
+            {
+                "name": "Bitcoin",
+                "son": 64913.4,
+                "fark": -829.0,
+                "fark_percent": -1.26
+            },
+            {
+                "name": "Ethereum",
+                "son": 3472.07,
+                "fark": -2.27,
+                "fark_percent": -0.07
+            },
+            {
+                "name": "Tether",
+                "son": 0.9999,
+                "fark": 0.0001,
+                "fark_percent": 0.01
+            },
+            {
+                "name": "BNB",
+                "son": 587.42,
+                "fark": -13.38,
+                "fark_percent": -2.23
+            },
+            {
+                "name": "Solana",
+                "son": 136.452,
+                "fark": -5.075,
+                "fark_percent": -3.59
+            },
+            {
+                "name": "USD Coin",
+                "son": 1.0004,
+                "fark": -0.0001,
+                "fark_percent": -0.01
+            }
+        ]
+    }
+}
